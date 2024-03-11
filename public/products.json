@@ -1,0 +1,7 @@
+[
+    { "id": 1, "name": "Product 1", "price": 9.99, "description": "This is product 1", "category": "Electronics" },
+    { "id": 2, "name": "Product 2", "price": 19.99, "description": "This is product 2", "category": "Clothing" },
+    { "id": 3, "name": "Product 3", "price": 14.99, "description": "This is product 3", "category": "Electronics" },
+    { "id": 4, "name": "Product 4", "price": 24.99, "description": "This is product 4", "category": "Books" },
+    { "id": 5, "name": "Product 5", "price": 7.99, "description": "This is product 5", "category": "Clothing" }
+  ]
